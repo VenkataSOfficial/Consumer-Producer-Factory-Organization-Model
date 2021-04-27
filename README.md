@@ -1,6 +1,9 @@
 # Consumer-Producer-Factory-Organization-Model
 The objective for this project was to develop an algorithm for the model organization which has multiple clients and have more than one producer at a time, where the producer is continuously producing some data into a queue on different execution cycles and the consumer must accept data, without the possibility of any deadlocks.
 
+![Welcome to Penultimate (page 17) (1)](https://user-images.githubusercontent.com/77020328/116322590-58148f80-a78a-11eb-89a0-6567e95064f2.png)
+
+
 Producer Class
 In the producer class I had firstly declared my queue with a maximum size of n. 
 
